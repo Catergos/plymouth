@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Catergos
+Description=Catergos plymouth theme by Xeon Zolt 
+duleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/catergos
+ScriptFile=/usr/share/plymouth/themes/catergos/theme.script
