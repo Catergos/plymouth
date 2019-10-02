@@ -19,7 +19,7 @@ script:
 
 before_deploy:
   - export package_name="`echo *.pkg.tar`"
-  - cat *.pkg.tar > "/home/travis/${package_name}"
+  
 
 deploy:
   - provider: releases
